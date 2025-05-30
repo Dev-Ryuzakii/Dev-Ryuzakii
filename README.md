@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dev-Ryuzakii
 - 👀 I’m interested in Software engineering and AI
-- 🌱 I’m currently learning Ai with Javascript 
+- 🌱 I’m currently learning Ai with Javascript and python 
 - 💞️ I’m looking to collaborate on any Ai and Software engineering project
-- 📫 How to reach me ...
+- 📫 How to reach me mail to faladerasaq22@gmail.come
 - 😄 Pronouns: he
 - ⚡ Fun fact: Love taking challenges on programming field 
 
